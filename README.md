@@ -1,6 +1,6 @@
 # Face-Expression-Recognition
 This project is about predicting facial expression recognition using convolutional neural network. The dataset here used is [fer2013](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset).
-This dataset is extremely noisy thats why i get only 62% accuracy on my test data. Hope data augmentation adn boosting techniques can help to gain some more accuracy
+This dataset is extremely noisy thats why i get only 62% accuracy on my test data. Hope data augmentation and boosting techniques can help to gain some more accuracy.
 
 ### Prerequisites
 ```
